@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jaynasenour
 - 👀 I’m interested in hiking 🌲, snowboarding/cruising 🏂⛷🛹, and my animals! 🐶🐱🐠
-- 🌱 I’m currently learning intermediate Python, Product Management, and Project Leadership.
+- 🌱 I’m currently learning at W.P. Carey School of Business for my MBA, intermediate Python, Product Management, and Project Leadership.
 - 💞️ I’m looking to collaborate on Salesforce Projects, Tableau Projects, Inteagrations, and any other strategy ideas. 😊
 - 📫 How to reach me 
 Phone: (971)285-0179
